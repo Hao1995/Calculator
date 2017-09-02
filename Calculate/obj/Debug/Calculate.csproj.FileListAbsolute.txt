@@ -1,0 +1,14 @@
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\MainWindow.g.cs
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\App.g.cs
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.cache
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.lref
+F:\Data\Web\C#\Calculate\Calculate\bin\Debug\Calculate.exe.config
+F:\Data\Web\C#\Calculate\Calculate\bin\Debug\Calculate.exe
+F:\Data\Web\C#\Calculate\Calculate\bin\Debug\Calculate.pdb
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\MainWindow.baml
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.g.resources
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.exe
+F:\Data\Web\C#\Calculate\Calculate\obj\Debug\Calculate.pdb
